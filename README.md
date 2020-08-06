@@ -2,7 +2,7 @@
 
 Software engineer from Budakeszi, Hungary.
 
-![contact](./contact.svg)
+![contact](https://raw.githubusercontent.com/dyuri/dyuri/master/contact.svg)
 
 ## Weapons of choice
 
