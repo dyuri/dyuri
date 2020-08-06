@@ -2,6 +2,8 @@
 
 Software engineer from Budakeszi, Hungary.
 
+![contact](./contact.svg)
+
 ## Weapons of choice
 
 [![arch linux](https://img.shields.io/badge/OS-ArchLinux-0f94d2?style=for-the-badge)](https://www.archlinux.org/)
