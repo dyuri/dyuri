@@ -17,3 +17,6 @@ Software engineer from Budakeszi, Hungary.
 [![linkedin](https://img.shields.io/badge/linkedin-dyuri-0077b5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dyuri/)
 [![twitter](https://img.shields.io/badge/twitter-repadyuri-1da1f2?logo=twitter&style=for-the-badge)](https://twitter.com/repadyuri/)
 [![instagram](https://img.shields.io/badge/instagram-repadyuri-e4405f?logo=instagram&style=for-the-badge)](https://www.instagram.com/repadyuri/)
+
+## You can also [buy me a tea](https://www.buymeacoffee.com/xbakeuqyit)
+Thanks!
